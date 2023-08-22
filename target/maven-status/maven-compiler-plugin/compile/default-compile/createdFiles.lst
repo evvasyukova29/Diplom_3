@@ -1,0 +1,11 @@
+common/GenerateUser.class
+common/User.class
+pageobj/PasswordPageRecovery.class
+common/Client.class
+pageobj/RegisterPage.class
+common/AuthData.class
+pageobj/MainPage.class
+constant/Constants.class
+pageobj/LoginPage.class
+pageobj/ProfilePage.class
+common/RequestCreateUser.class
